@@ -14,7 +14,7 @@ import Heroo from './Components/Heroo'
 const App = () => {
   
   return (
-    <div className="bgImg rounded-[5px] h-[100vh] my-0 mx-auto max-w-[600px] sm:max-w-[1100px] overflow-hidden">
+    <div className="bgImg object-contain rounded-[5px] h-[100vh] my-0 mx-auto max-w-[600px] sm:max-w-[1100px] overflow-hidden">
       {/* <Hero /> */}
       <Heroo />
      
