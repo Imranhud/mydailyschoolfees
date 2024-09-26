@@ -12,8 +12,8 @@ const NavBar = () => {
             </div>
         </div>
         <div className="flex flex-row items-center justify-between mr-3">
-            <button type="button" className='text-white mx-2 text-[16px] bg-cyan-300 p-2 rounded'>Sign up</button>
-            <button type="button" className='text-white text-[16px] bg-amber-400 p-2 rounded'>Sign in</button>
+            <button type="button" className='text-white mx-2 text-[15px] border-none sm:w-[90px] w-[70px] bg-cyan-300 p-2 rounded'>Sign up</button>
+            <button type="button" className='text-white text-[15px] bg-amber-400 w-[70px] p-2 rounded'>Sign in</button>
         </div>
     </div>
   )
